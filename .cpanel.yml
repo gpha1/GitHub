@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/taleeaxq/public_html/
+    - export DEPLOYPATH=/home/taleeaxq1/public_html/
     - /bin/cp * $DEPLOYPATH
     
